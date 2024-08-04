@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tradestoreapp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tradestoreapp_jar</output-path>
+    <root id="archive" name="tradestoreapp.jar">
+      <element id="module-output" name="tradestoreapp" />
+    </root>
+  </artifact>
+</component>
